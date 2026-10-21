@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500
+SUCCESS # <- mindket tar tuzelt
+FAIL # <- nincs lovedek failure

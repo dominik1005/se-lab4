@@ -1,0 +1,4 @@
+# All: Mindket tarbol lo
+GT4500,1,0,1,0
+TORPEDO,ALL # mindket tarbol lo siker
+TORPEDO,ALL # kiurult sikertelen loves

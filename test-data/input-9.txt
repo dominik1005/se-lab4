@@ -1,0 +1,4 @@
+# Single: elsodleges lo elsonek a masodik ures de utana az elso is ures lesz
+GT4500,1,0,0,0
+TORPEDO,SINGLE # elsodleges siker
+TORPEDO,SINGLE # masodik es elso is ures hiba

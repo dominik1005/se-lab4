@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500
+SUCCESS # <- elsodleges sikeres
+FAIL # <- ures lesz mindketto tar
