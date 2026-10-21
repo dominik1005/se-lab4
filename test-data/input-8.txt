@@ -1,0 +1,3 @@
+# Elsodleges lovesnel az elso ures a msaodik fog loni
+GT4500,0,0,3,0
+TORPEDO,SINGLE # masodlagos fog kezdeni
