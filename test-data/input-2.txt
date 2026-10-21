@@ -1,0 +1,4 @@
+# Single: A tarak felvaltva lonek a masodlagos failure jeloli
+GT4500,3,0,3,1
+TORPEDO,SINGLE # elsodleges siker
+TORPEDO,SINGLE # masodlagos failure

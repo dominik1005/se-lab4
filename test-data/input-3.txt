@@ -1,0 +1,4 @@
+# Single: tar ures visszanyul a masikhoz
+GT4500,3,0,0,0
+TORPEDO,SINGLE # elsodleges siker
+TORPEDO,SINGLE # masodlagos nincs visszanyil elso siker

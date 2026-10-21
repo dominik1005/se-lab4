@@ -1,0 +1,3 @@
+# Single: ha mindket tar ures akkor nem tuzel
+GT4500,0,0,0,0
+TORPEDO,SINGLE # nincs mibol loni hiba
